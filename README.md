@@ -1,18 +1,18 @@
-Weather App
+Weather App---->
 This React Weather App allows users to enter a city name and retrieve the current temperature for that location. It uses the Open Meteo Geocoding API to get geolocation data (latitude and longitude) for the city and fetches the current temperature from the Open Meteo weather API.
 
-Features
+Features---->
 Search for cities and get current weather data.
 Error handling for cases when the city is not found.
-Prerequisites
+Prerequisites---->
 Node.js and npm installed
 Basic understanding of React and REST API
 
-Getting Started with Create React App
+Getting Started with Create React App---->
 This project was bootstrapped with Create React App.
 
-Available Scripts
-In the project directory, you can run:
+Available Scripts---->
+In the project directory, you can run:---->
 
 npm install than
 npm start
@@ -44,7 +44,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Learn More
+Learn More---->
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
