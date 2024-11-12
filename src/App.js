@@ -30,7 +30,6 @@ const App = () => {
   }
 
   const fetchWeather = (latitude, longitude, city) => {
-    // Replace this URL with the weather API you plan to use
     const weatherUrl = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current_weather=true`
 
     fetch(weatherUrl)
